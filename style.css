@@ -18,6 +18,11 @@ body {
     padding: 1.5rem;
 }
 
+/* [ALUNO 2] - ESTILOS DO MAIN */
+.main-content {
+    flex: 1;
+    padding: 2rem;
+}
 
 /* [ALUNO 3] - ESTILOS DO FOOTER */
 .site-footer {
